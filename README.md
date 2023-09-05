@@ -1,4 +1,21 @@
 # Delving_into_react
+
+## introducción
+
+En la actualidad crear proyectos con react es una tarea muy dinámica. Su "ecosistema" nos provee de una gran cantidad de soluciones sencillas.
+
+‌
+
+Al comenzar a estudiar sobre react la gran mayoría de los tutoriales hablan sobre los hooks de react y cómo son mejores que los componentes de clase.
+
+Pero…
+
+¿Cómo era todo antes de los hooks de react?
+
+¿Cómo eran los componentes de clase?
+
+‌
+
 Este proyecto tiene la finalidad de:
 - Aprender sobre las bases de react.
 - Entender que solución traen los hooks.
