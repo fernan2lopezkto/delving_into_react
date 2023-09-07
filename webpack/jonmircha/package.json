@@ -1,0 +1,19 @@
+{
+  "name": "jonmircha",
+  "version": "1.0.0",
+  "description": "aprendiendo webpak con jon",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "Juan Rey <fernan2lopezkto@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  }
+}
